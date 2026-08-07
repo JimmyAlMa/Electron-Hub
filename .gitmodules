@@ -1,3 +1,6 @@
 [submodule "Learn-Electron"]
 	path = Learn-Electron
 	url = https://github.com/JimmyAlMa/Learn-Electron.git
+[submodule "Electron-Project-1"]
+	path = Electron-Project-1
+	url = https://github.com/JimmyAlMa/Electron-Project-1.git
