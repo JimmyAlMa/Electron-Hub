@@ -11,8 +11,7 @@ This repository leverages Git Submodules to link separate Electron project repos
 Below are the Electron project repositories linked within this hub:
 
 * Learn-Electron (1-2) - Exercises, feature experiments, and notes covering fundamental concepts of Electron development.
-* Electron-Project-1 - The first desktop application project built using Electron.
-
+* Electron-Project (1-2): Desktop application projects built while learning Electron.js basics and SQLite integration.
 ---
 
 ## Prerequisites
